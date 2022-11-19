@@ -36,7 +36,7 @@ namespace RepositoryPattern.Services.Services.Concretes
             return _courseRepository.GetById(id);
         }
 
-        
+
         public void Update(Course course)
         {
             _courseRepository.Update(course);

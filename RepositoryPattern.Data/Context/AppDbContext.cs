@@ -16,6 +16,8 @@ namespace Repository.Data.Context
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new CourseConfiguration());
+            //DbContext'deki tüm table configurationlarını bulup register eder. 
+            //modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
         }
 
         

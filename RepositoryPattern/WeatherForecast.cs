@@ -1,6 +1,6 @@
 using System;
 
-namespace Repository.Api
+namespace Repository
 {
     public class WeatherForecast
     {

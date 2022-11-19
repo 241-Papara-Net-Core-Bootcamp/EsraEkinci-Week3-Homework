@@ -1,0 +1,11 @@
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\bin\Debug\PaparaFourthWeek.ConsoleApp.exe.config
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\bin\Debug\PaparaFourthWeek.ConsoleApp.exe
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\bin\Debug\PaparaFourthWeek.ConsoleApp.pdb
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\bin\Debug\Dapper.dll
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\bin\Debug\Dapper.xml
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.csproj.AssemblyReference.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.csproj.CopyComplete
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.exe
+D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\PaparaFourthWeek.ConsoleApp\obj\Debug\PaparaFourthWeek.ConsoleApp.pdb

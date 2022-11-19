@@ -8,13 +8,12 @@ namespace RepositoryPattern.Services.Services.Abstracts
         IEnumerable<Course> GetAll();
         public void Add(Course course);
         IEnumerable<Course> GetById(int id);
-        
+
         //IEnumerable<Course> Update();
         public void Update(Course course);
         IEnumerable<Course> UpdateGetAll();
 
-        public void Delete(Course course);  
-        
-        
+        public void Delete(Course course);
+
     }
 }

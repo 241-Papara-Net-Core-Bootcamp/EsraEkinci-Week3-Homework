@@ -1,16 +1,22 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Dapper;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Repository.Data.Abstracts;
 using Repository.Data.Context;
 using Repository.Domain;
+using Repository.Domain.Entities;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Threading.Tasks;
 
 namespace Repository.Data.Concretes
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
-        public AppDbContext Context { get;}
+        public AppDbContext Context { get; }
 
         public Repository(AppDbContext context)
         {
@@ -52,7 +58,7 @@ namespace Repository.Data.Concretes
             if (existData is not null)
             {
                 Context.Set<T>().Remove(existData);
-                Context.SaveChanges();  
+                Context.SaveChanges();
             }
         }
 
@@ -60,7 +66,7 @@ namespace Repository.Data.Concretes
         {
 
             Context.Update(entity);
-            Context.SaveChanges();            
+            Context.SaveChanges();
         }
 
         public IQueryable<T> GetById(int id)
@@ -70,4 +76,7 @@ namespace Repository.Data.Concretes
 
         
     }
+
+   
+
 }

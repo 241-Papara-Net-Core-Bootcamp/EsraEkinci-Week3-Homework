@@ -18,3 +18,23 @@ D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Serv
 D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Data.pdb
 D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
 D:\02-esraekinci\YAZILIM\.NET\Pratikler\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.deps.json
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.runtimeconfig.json
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Data.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Data.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\refint\RepositoryPattern.Services.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Services\obj\Debug\net5.0\ref\RepositoryPattern.Services.dll

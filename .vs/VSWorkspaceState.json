@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RepositoryPattern.Api",
-    "\\RepositoryPattern.Api\\Controllers"
+    "\\RepositoryPattern.Services",
+    "\\RepositoryPattern.Services\\Services.Abstracts"
   ],
   "SelectedNode": "\\RepositoryPattern.sln",
   "PreviewInSolutionExplorer": false

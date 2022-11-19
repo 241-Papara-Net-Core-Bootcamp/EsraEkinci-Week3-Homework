@@ -5,9 +5,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using Repository.Data.Abstracts;
-using Repository.Data.Concretes;
 using Repository.Data.Context;
+using RepositoryPattern.Api.Extensions;
+using RepositoryPattern.Data.Abstracts;
+using RepositoryPattern.Data.Concretes;
+using RepositoryPattern.Services.MappingProfiles;
 using RepositoryPattern.Services.Services.Abstracts;
 using RepositoryPattern.Services.Services.Concretes;
 
@@ -32,8 +34,12 @@ namespace Repository.Api
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RepositoryPattern.Api", Version = "v1" });
             });
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
-            services.AddTransient<ICourseService, CourseService>();
+            //services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
+            //services.AddTransient<ICourseService, CourseService>();            
+            services.AddTransient<IDapperRepository, DapperRepository>();
+            services.AddTransient<IDapperService, DapperService>();
+            services.AddAutoMapper(typeof(MappingProfile));
+            //services.AddAutoMapper(Assembly.GetExecutingAssembly());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +51,8 @@ namespace Repository.Api
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "RepositoryPattern.Api v1"));
             }
+
+            app.ConfigureExceptionHandler();
 
             app.UseHttpsRedirection();
 
